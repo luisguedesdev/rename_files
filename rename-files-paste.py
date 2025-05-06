@@ -20,5 +20,5 @@ def renomear_videos(diretorio_principal):
                 print(f"Erro ao renomear {caminho_antigo}: {e}")
 
 # Defina o caminho da pasta principal onde estão os vídeos
-diretorio = "E:\Downloads\AWS Impressionador"
+diretorio = ""
 renomear_videos(diretorio)
