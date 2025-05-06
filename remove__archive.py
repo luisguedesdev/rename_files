@@ -1,7 +1,7 @@
 import os
 
 # Defina o caminho da pasta onde os arquivos estão localizados
-pasta = "D:/Onedrive/HQ`s/Saga do Batman"  # Substitua pelo caminho correto
+pasta = "D:/Onedrive/HQs/A Saga do Batman"  # Substitua pelo caminho correto
 
 # Percorre todos os arquivos na pasta
 for arquivo in os.listdir(pasta):
